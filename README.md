@@ -5,7 +5,6 @@
 <p align="center">
 <img src="/resources/images/profile.png" width="500" height="300">
 </p>
-<!-- ![hacktoberfest progres](/resources/images/profile.png) -->
 
 > ##
 >
