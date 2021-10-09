@@ -1,4 +1,4 @@
-# Welcome to HacktoberFest 2020
+# Welcome to HacktoberFest 2021
 
 ##### This is just a _friendly neighborhood repository_. You can make pull requests (PR) here to get your progress bar filled in [HactoberFest website](https://hacktoberfest.digitalocean.com/profile).
 
