@@ -17,7 +17,7 @@
 >       $ git clone https://github.com/<your-username>/HacktoberFest2020
 >       $ cd HacktoberFest2020
 >     ```
-> - **Edit** the _'participant-list.txt'_ in the _"2020Participants"_ directory.
+> - **Edit** the _'participant-list.txt'_ in the _"2021Participants"_ directory.
 >   - Add your name and GitHub's profile as new entry.
 >     - `ex: Kay Phot - https://github.com/kayphot`
 > - **Add | Commit | Push** [(See How)](https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line)
