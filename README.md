@@ -3,7 +3,7 @@
 ##### This is just a _friendly neighborhood repository_. You can make pull requests (PR) here to get your progress bar filled in [HactoberFest website](https://hacktoberfest.digitalocean.com/profile).
 
 <p align="center">
-<img src="/resources/images/profile2021.png" width="500" height="300">
+<img src="/resources/images/profile2022.png" width="400" height="300">
 </p>
 
 > ##
