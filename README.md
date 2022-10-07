@@ -33,6 +33,4 @@
 >
 > ##
 
-<p align="center">
-<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" frameBorder="0"></iframe>
-</p>
+![GIF](/resources/images/giphy.gif)
